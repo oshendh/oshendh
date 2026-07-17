@@ -1,16 +1,16 @@
-## Hi there 👋
+Just another millennial internet kid whose endless skepticism led them to research 🤓
 
-<!--
-**oshendh/oshendh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**When I'm not online, you can catch me:**
+- watching Jeopardy
+- growing my Smiski collection
+- building my perfect island in Pokopia
+- finding ways to be creative that don't involve a computer 👩‍🎨
+
+---
+<div align="left">
+
+👋 **don't be a stranger** --> <a href="https://osaldvha.org">website</a> · <a href="https://www.linkedin.com/in/oshendh/">linkedin</a>
+
+</div>
